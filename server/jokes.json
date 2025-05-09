@@ -1,0 +1,1316 @@
+[
+  {
+    "id": 13,
+    "text": "Тільки програмісти можуть сваритися, використовуючи pull request-и.",
+    "author": "Сергій Гнатюк",
+    "createdAt": "2025-05-01T08:00:00Z",
+    "likes": 15,
+    "dislikes": 3,
+    "likesUsers": [
+      "oleh.dev",
+      "guestUser",
+      "yan4ik",
+      "katya.dev",
+      "marta_code",
+      "dmytro777",
+      "ivan_test",
+      "testUser",
+      "coder_cat",
+      "lena.dev",
+      "oleg2000",
+      "devil_dev",
+      "vladislav",
+      "oldSchool",
+      "admin"
+    ],
+    "dislikesUsers": [
+      "yana23",
+      "sergo_top",
+      "anastasia"
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Якщо твій код працює з першого разу — перевір, чи ти взагалі його запускав.",
+    "author": "Назар Петренко",
+    "createdAt": "2025-05-01T10:00:00Z",
+    "likes": 12,
+    "dislikes": 3,
+    "likesUsers": [
+      "oldSchool",
+      "tanya",
+      "denys.k",
+      "marta_code",
+      "oleg2000",
+      "yan4ik",
+      "admin",
+      "dmytro777",
+      "yana23",
+      "anastasia",
+      "devil_dev",
+      "katya.dev"
+    ],
+    "dislikesUsers": [
+      "oleh.dev",
+      "coder_cat",
+      "lena.dev"
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Справжній хакер пише паролі так, щоб забути їх одразу після збереження.",
+    "author": "Назар Петренко",
+    "createdAt": "2025-05-01T12:00:00Z",
+    "likes": 20,
+    "dislikes": 0,
+    "likesUsers": [
+      "ivan_test",
+      "admin",
+      "guestUser",
+      "vladislav",
+      "testUser",
+      "oleh.dev",
+      "katya.dev",
+      "lena.dev",
+      "sergo_top",
+      "anastasia",
+      "tanya",
+      "oleg2000",
+      "yan4ik",
+      "dmytro777",
+      "oldSchool",
+      "devil_dev",
+      "marta_code",
+      "denys.k",
+      "yana23",
+      "coder_cat"
+    ],
+    "dislikesUsers": []
+  },
+  {
+    "id": 16,
+    "text": "В комп'ютерних клубах старої школи підключення до інтернету перевіряли ударами по роутеру.",
+    "author": "Назар Петренко",
+    "createdAt": "2025-05-01T14:00:00Z",
+    "likes": 1,
+    "dislikes": 5,
+    "likesUsers": [
+      "lena.dev"
+    ],
+    "dislikesUsers": [
+      "anastasia",
+      "coder_cat",
+      "dmytro777",
+      "guestUser",
+      "tanya"
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Програмісти не помиляються — вони просто створюють несподівані функції.",
+    "author": "Віктор Романюк",
+    "createdAt": "2025-05-01T16:00:00Z",
+    "likes": 16,
+    "dislikes": 1,
+    "likesUsers": [
+      "oldSchool",
+      "coder_cat",
+      "yana23",
+      "tanya",
+      "katya.dev",
+      "dmytro777",
+      "anastasia",
+      "testUser",
+      "admin",
+      "lena.dev",
+      "sergo_top",
+      "devil_dev",
+      "oleg2000",
+      "vladislav",
+      "marta_code",
+      "yan4ik"
+    ],
+    "dislikesUsers": [
+      "ivan_test"
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Коли адміністратор заходить до кімнати, всі перестають гуглити 'як підняти сервер'.",
+    "author": "Антон Дяченко",
+    "createdAt": "2025-05-01T18:00:00Z",
+    "likes": 4,
+    "dislikes": 0,
+    "likesUsers": [
+      "oldSchool",
+      "lena.dev",
+      "ivan_test",
+      "dmytro777"
+    ],
+    "dislikesUsers": []
+  },
+  {
+    "id": 19,
+    "text": "Кохання — це коли твій код приймають без жодного коментаря.",
+    "author": "Марія Литвин",
+    "createdAt": "2025-05-01T20:00:00Z",
+    "likes": 6,
+    "dislikes": 1,
+    "likesUsers": [
+      "katya.dev",
+      "coder_cat",
+      "marta_code",
+      "dmytro777",
+      "oldSchool",
+      "lena.dev"
+    ],
+    "dislikesUsers": [
+      "yan4ik"
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Тестувальник знаходить помилки, які сам розробник називає фічами.",
+    "author": "Назар Петренко",
+    "createdAt": "2025-05-01T22:00:00Z",
+    "likes": 11,
+    "dislikes": 0,
+    "likesUsers": [
+      "denys.k",
+      "lena.dev",
+      "anastasia",
+      "vladislav",
+      "ivan_test",
+      "dmytro777",
+      "testUser",
+      "oldSchool",
+      "oleh.dev",
+      "yana23",
+      "oleg2000"
+    ],
+    "dislikesUsers": []
+  },
+  {
+    "id": 21,
+    "text": "Шлях до серця програміста лежить через гарну документацію.",
+    "author": "Віктор Романюк",
+    "createdAt": "2025-05-02T00:00:00Z",
+    "likes": 4,
+    "dislikes": 10,
+    "likesUsers": [
+      "denys.k",
+      "anastasia",
+      "sergo_top",
+      "coder_cat"
+    ],
+    "dislikesUsers": [
+      "lena.dev",
+      "yana23",
+      "vladislav",
+      "oleg2000",
+      "ivan_test",
+      "marta_code",
+      "guestUser",
+      "dmytro777",
+      "katya.dev",
+      "admin"
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Відпустка програміста — це коли він не відкриває Visual Studio тиждень.",
+    "author": "Іван Сидоренко",
+    "createdAt": "2025-05-02T02:00:00Z",
+    "likes": 13,
+    "dislikes": 3,
+    "likesUsers": [
+      "devil_dev",
+      "oldSchool",
+      "lena.dev",
+      "oleg2000",
+      "guestUser",
+      "tanya",
+      "denys.k",
+      "vladislav",
+      "sergo_top",
+      "coder_cat",
+      "yan4ik",
+      "yana23",
+      "marta_code"
+    ],
+    "dislikesUsers": [
+      "dmytro777",
+      "oleh.dev",
+      "ivan_test"
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Debug — це мистецтво, а не наука.",
+    "author": "Аліна Бондар",
+    "createdAt": "2025-05-02T04:00:00Z",
+    "likes": 10,
+    "dislikes": 6,
+    "likesUsers": [
+      "coder_cat",
+      "yan4ik",
+      "tanya",
+      "yana23",
+      "oleg2000",
+      "vladislav",
+      "oldSchool",
+      "sergo_top",
+      "denys.k",
+      "marta_code"
+    ],
+    "dislikesUsers": [
+      "anastasia",
+      "dmytro777",
+      "lena.dev",
+      "devil_dev",
+      "guestUser",
+      "ivan_test"
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Сеньйор — це той, хто точно знає, чому нічого не працює.",
+    "author": "Віктор Романюк",
+    "createdAt": "2025-05-02T06:00:00Z",
+    "likes": 15,
+    "dislikes": 5,
+    "likesUsers": [
+      "guestUser",
+      "yana23",
+      "yan4ik",
+      "anastasia",
+      "oldSchool",
+      "lena.dev",
+      "dmytro777",
+      "testUser",
+      "katya.dev",
+      "marta_code",
+      "tanya",
+      "devil_dev",
+      "denys.k",
+      "oleg2000",
+      "ivan_test"
+    ],
+    "dislikesUsers": [
+      "sergo_top",
+      "coder_cat",
+      "admin",
+      "oleh.dev",
+      "vladislav"
+    ]
+  },
+  {
+    "id": 25,
+    "text": "На співбесіді: 'Який ваш головний страх?' — 'Що продакшн впаде у п’ятницю ввечері.'",
+    "author": "Тетяна Мороз",
+    "createdAt": "2025-05-02T08:00:00Z",
+    "likes": 6,
+    "dislikes": 9,
+    "likesUsers": [
+      "ivan_test",
+      "guestUser",
+      "denys.k",
+      "anastasia",
+      "yan4ik",
+      "dmytro777"
+    ],
+    "dislikesUsers": [
+      "oleh.dev",
+      "vladislav",
+      "lena.dev",
+      "devil_dev",
+      "katya.dev",
+      "tanya",
+      "admin",
+      "sergo_top",
+      "coder_cat"
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Знання HTML не робить тебе веб-розробником, але допомагає писати гарні листівки.",
+    "author": "Тетяна Мороз",
+    "createdAt": "2025-05-02T10:00:00Z",
+    "likes": 12,
+    "dislikes": 2,
+    "likesUsers": [
+      "devil_dev",
+      "oldSchool",
+      "yana23",
+      "tanya",
+      "anastasia",
+      "oleh.dev",
+      "lena.dev",
+      "ivan_test",
+      "coder_cat",
+      "dmytro777",
+      "katya.dev",
+      "oleg2000"
+    ],
+    "dislikesUsers": [
+      "denys.k",
+      "testUser"
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Кожен розробник має свій улюблений синтаксис помилки.",
+    "author": "Назар Петренко",
+    "createdAt": "2025-05-02T12:00:00Z",
+    "likes": 6,
+    "dislikes": 2,
+    "likesUsers": [
+      "guestUser",
+      "tanya",
+      "ivan_test",
+      "sergo_top",
+      "testUser",
+      "lena.dev"
+    ],
+    "dislikesUsers": [
+      "coder_cat",
+      "katya.dev"
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Git — це як гра в шахи. Один неправильний хід — і вся історія знищена.",
+    "author": "Ірина Шевчук",
+    "createdAt": "2025-05-02T14:00:00Z",
+    "likes": 18,
+    "dislikes": 1,
+    "likesUsers": [
+      "oldSchool",
+      "tanya",
+      "dmytro777",
+      "oleh.dev",
+      "guestUser",
+      "lena.dev",
+      "coder_cat",
+      "admin",
+      "denys.k",
+      "vladislav",
+      "marta_code",
+      "sergo_top",
+      "yan4ik",
+      "katya.dev",
+      "anastasia",
+      "ivan_test",
+      "testUser",
+      "oleg2000"
+    ],
+    "dislikesUsers": [
+      "devil_dev"
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Життя коротке. Пиши код, ніби завтра його хтось буде читати.",
+    "author": "Марія Литвин",
+    "createdAt": "2025-05-02T16:00:00Z",
+    "likes": 3,
+    "dislikes": 10,
+    "likesUsers": [
+      "oleh.dev",
+      "sergo_top",
+      "oldSchool"
+    ],
+    "dislikesUsers": [
+      "devil_dev",
+      "vladislav",
+      "admin",
+      "yan4ik",
+      "anastasia",
+      "ivan_test",
+      "guestUser",
+      "testUser",
+      "marta_code",
+      "denys.k"
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Справжній девопс п'є каву навіть під час аварійної ночі.",
+    "author": "Тетяна Мороз",
+    "createdAt": "2025-05-02T18:00:00Z",
+    "likes": 10,
+    "dislikes": 3,
+    "likesUsers": [
+      "anastasia",
+      "yan4ik",
+      "tanya",
+      "oldSchool",
+      "katya.dev",
+      "vladislav",
+      "coder_cat",
+      "guestUser",
+      "admin",
+      "testUser"
+    ],
+    "dislikesUsers": [
+      "devil_dev",
+      "yana23",
+      "ivan_test"
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Ідеальний код — це той, який не потребує коментарів. Або розробника.",
+    "author": "Назар Петренко",
+    "createdAt": "2025-05-02T20:00:00Z",
+    "likes": 16,
+    "dislikes": 3,
+    "likesUsers": [
+      "oldSchool",
+      "anastasia",
+      "yana23",
+      "sergo_top",
+      "vladislav",
+      "oleg2000",
+      "coder_cat",
+      "devil_dev",
+      "dmytro777",
+      "oleh.dev",
+      "testUser",
+      "denys.k",
+      "guestUser",
+      "ivan_test",
+      "yan4ik",
+      "lena.dev"
+    ],
+    "dislikesUsers": [
+      "admin",
+      "marta_code",
+      "tanya"
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Фріланс — це коли ти не працюєш з 9 до 6, а з 6 до 9.",
+    "author": "Назар Петренко",
+    "createdAt": "2025-05-02T22:00:00Z",
+    "likes": 9,
+    "dislikes": 9,
+    "likesUsers": [
+      "coder_cat",
+      "lena.dev",
+      "anastasia",
+      "sergo_top",
+      "katya.dev",
+      "tanya",
+      "oldSchool",
+      "oleh.dev",
+      "vladislav"
+    ],
+    "dislikesUsers": [
+      "admin",
+      "yan4ik",
+      "denys.k",
+      "marta_code",
+      "devil_dev",
+      "testUser",
+      "ivan_test",
+      "yana23",
+      "oleg2000"
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Якщо нічого не ламається — перевір, чи ти не на продакшені.",
+    "author": "Олексій Коваль",
+    "createdAt": "2025-05-03T00:00:00Z",
+    "likes": 11,
+    "dislikes": 1,
+    "likesUsers": [
+      "devil_dev",
+      "oleh.dev",
+      "lena.dev",
+      "dmytro777",
+      "katya.dev",
+      "oleg2000",
+      "marta_code",
+      "sergo_top",
+      "denys.k",
+      "yana23",
+      "yan4ik"
+    ],
+    "dislikesUsers": [
+      "anastasia"
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Ніколи не став 'TODO' у продакшн-код. Хтось його обов'язково побачить.",
+    "author": "Віктор Романюк",
+    "createdAt": "2025-05-03T02:00:00Z",
+    "likes": 14,
+    "dislikes": 1,
+    "likesUsers": [
+      "testUser",
+      "coder_cat",
+      "oldSchool",
+      "yana23",
+      "marta_code",
+      "ivan_test",
+      "denys.k",
+      "anastasia",
+      "tanya",
+      "oleh.dev",
+      "dmytro777",
+      "vladislav",
+      "lena.dev",
+      "yan4ik"
+    ],
+    "dislikesUsers": [
+      "sergo_top"
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Не злийся на JavaScript, він просто такий.",
+    "author": "Антон Дяченко",
+    "createdAt": "2025-05-03T04:00:00Z",
+    "likes": 7,
+    "dislikes": 5,
+    "likesUsers": [
+      "marta_code",
+      "ivan_test",
+      "yan4ik",
+      "lena.dev",
+      "oleg2000",
+      "anastasia",
+      "tanya"
+    ],
+    "dislikesUsers": [
+      "yana23",
+      "katya.dev",
+      "dmytro777",
+      "testUser",
+      "vladislav"
+    ]
+  },
+  {
+    "id": 36,
+    "text": "CSS може зруйнувати життя. Особливо, якщо ти не знаєш, чому працює.",
+    "author": "Тетяна Мороз",
+    "createdAt": "2025-05-03T06:00:00Z",
+    "likes": 4,
+    "dislikes": 3,
+    "likesUsers": [
+      "lena.dev",
+      "denys.k",
+      "oleh.dev",
+      "admin"
+    ],
+    "dislikesUsers": [
+      "devil_dev",
+      "ivan_test",
+      "vladislav"
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Працювати в IT — це коли твій холодильник має краще підключення, ніж ноутбук.",
+    "author": "Віктор Романюк",
+    "createdAt": "2025-05-03T08:00:00Z",
+    "likes": 17,
+    "dislikes": 2,
+    "likesUsers": [
+      "denys.k",
+      "katya.dev",
+      "marta_code",
+      "admin",
+      "dmytro777",
+      "sergo_top",
+      "ivan_test",
+      "guestUser",
+      "anastasia",
+      "oleg2000",
+      "coder_cat",
+      "oldSchool",
+      "devil_dev",
+      "vladislav",
+      "yan4ik",
+      "oleh.dev",
+      "yana23"
+    ],
+    "dislikesUsers": [
+      "testUser",
+      "lena.dev"
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Коли ти втомлений, але все одно пишеш код — готуйся до пригод.",
+    "author": "Аліна Бондар",
+    "createdAt": "2025-05-03T10:00:00Z",
+    "likes": 4,
+    "dislikes": 2,
+    "likesUsers": [
+      "admin",
+      "vladislav",
+      "ivan_test",
+      "oleh.dev"
+    ],
+    "dislikesUsers": [
+      "coder_cat",
+      "denys.k"
+    ]
+  },
+  {
+    "id": 39,
+    "text": "Не можна просто так взяти і написати код без багів.",
+    "author": "Назар Петренко",
+    "createdAt": "2025-05-03T12:00:00Z",
+    "likes": 6,
+    "dislikes": 3,
+    "likesUsers": [
+      "dmytro777",
+      "denys.k",
+      "sergo_top",
+      "oleh.dev",
+      "admin",
+      "coder_cat"
+    ],
+    "dislikesUsers": [
+      "tanya",
+      "yan4ik",
+      "ivan_test"
+    ]
+  },
+  {
+    "id": 40,
+    "text": "Алгоритми — це страшно. Але інтерв’ю ще страшніше.",
+    "author": "Назар Петренко",
+    "createdAt": "2025-05-03T14:00:00Z",
+    "likes": 9,
+    "dislikes": 10,
+    "likesUsers": [
+      "coder_cat",
+      "ivan_test",
+      "oldSchool",
+      "marta_code",
+      "yana23",
+      "guestUser",
+      "vladislav",
+      "sergo_top",
+      "testUser"
+    ],
+    "dislikesUsers": [
+      "denys.k",
+      "dmytro777",
+      "anastasia",
+      "tanya",
+      "oleh.dev",
+      "admin",
+      "devil_dev",
+      "yan4ik",
+      "katya.dev",
+      "oleg2000"
+    ]
+  },
+  {
+    "id": 41,
+    "text": "Найкращий коментар у коді — це видалення коду.",
+    "author": "Сергій Гнатюк",
+    "createdAt": "2025-05-03T16:00:00Z",
+    "likes": 11,
+    "dislikes": 8,
+    "likesUsers": [
+      "marta_code",
+      "coder_cat",
+      "devil_dev",
+      "vladislav",
+      "katya.dev",
+      "lena.dev",
+      "yana23",
+      "ivan_test",
+      "oleh.dev",
+      "anastasia",
+      "denys.k"
+    ],
+    "dislikesUsers": [
+      "admin",
+      "testUser",
+      "tanya",
+      "sergo_top",
+      "oldSchool",
+      "oleg2000",
+      "dmytro777",
+      "guestUser"
+    ]
+  },
+  {
+    "id": 42,
+    "text": "Програміст — це людина, яка перетворює каву в код.",
+    "author": "Марія Литвин",
+    "createdAt": "2025-05-03T18:00:00Z",
+    "likes": 2,
+    "dislikes": 2,
+    "likesUsers": [
+      "lena.dev",
+      "testUser"
+    ],
+    "dislikesUsers": [
+      "dmytro777",
+      "devil_dev"
+    ]
+  },
+  {
+    "id": 43,
+    "text": "Поганий код працює. Хороший код теж працює. Але гарний код читається.",
+    "author": "Віктор Романюк",
+    "createdAt": "2025-05-03T20:00:00Z",
+    "likes": 6,
+    "dislikes": 3,
+    "likesUsers": [
+      "oldSchool",
+      "coder_cat",
+      "sergo_top",
+      "denys.k",
+      "admin",
+      "oleh.dev"
+    ],
+    "dislikesUsers": [
+      "katya.dev",
+      "lena.dev",
+      "ivan_test"
+    ]
+  },
+  {
+    "id": 44,
+    "text": "Знаєш, що гірше за помилку? Коментар до неї: 'магія, не чіпати'.",
+    "author": "Назар Петренко",
+    "createdAt": "2025-05-03T22:00:00Z",
+    "likes": 11,
+    "dislikes": 2,
+    "likesUsers": [
+      "admin",
+      "oleh.dev",
+      "testUser",
+      "ivan_test",
+      "oldSchool",
+      "vladislav",
+      "devil_dev",
+      "katya.dev",
+      "coder_cat",
+      "yana23",
+      "yan4ik"
+    ],
+    "dislikesUsers": [
+      "lena.dev",
+      "oleg2000"
+    ]
+  },
+  {
+    "id": 45,
+    "text": "Справжній full-stack вміє і сайт зробити, і чай заварити.",
+    "author": "Назар Петренко",
+    "createdAt": "2025-05-04T00:00:00Z",
+    "likes": 16,
+    "dislikes": 1,
+    "likesUsers": [
+      "yan4ik",
+      "vladislav",
+      "marta_code",
+      "oleh.dev",
+      "tanya",
+      "oleg2000",
+      "oldSchool",
+      "admin",
+      "testUser",
+      "sergo_top",
+      "guestUser",
+      "anastasia",
+      "dmytro777",
+      "ivan_test",
+      "denys.k",
+      "lena.dev"
+    ],
+    "dislikesUsers": [
+      "coder_cat"
+    ]
+  },
+  {
+    "id": 46,
+    "text": "Іноді найкраще рішення — видалити проект і почати спочатку.",
+    "author": "Віктор Романюк",
+    "createdAt": "2025-05-04T02:00:00Z",
+    "likes": 17,
+    "dislikes": 1,
+    "likesUsers": [
+      "tanya",
+      "oleh.dev",
+      "sergo_top",
+      "katya.dev",
+      "guestUser",
+      "yana23",
+      "oldSchool",
+      "dmytro777",
+      "denys.k",
+      "devil_dev",
+      "testUser",
+      "admin",
+      "ivan_test",
+      "vladislav",
+      "anastasia",
+      "marta_code",
+      "oleg2000"
+    ],
+    "dislikesUsers": [
+      "lena.dev"
+    ]
+  },
+  {
+    "id": 47,
+    "text": "DevOps — це магія, яку ніхто не хоче розуміти.",
+    "author": "Ірина Шевчук",
+    "createdAt": "2025-05-04T04:00:00Z",
+    "likes": 2,
+    "dislikes": 3,
+    "likesUsers": [
+      "anastasia",
+      "katya.dev"
+    ],
+    "dislikesUsers": [
+      "yana23",
+      "dmytro777",
+      "sergo_top"
+    ]
+  },
+  {
+    "id": 48,
+    "text": "Чим менше комітів у п'ятницю — тим спокійніші вихідні.",
+    "author": "Тетяна Мороз",
+    "createdAt": "2025-05-04T06:00:00Z",
+    "likes": 20,
+    "dislikes": 0,
+    "likesUsers": [
+      "admin",
+      "dmytro777",
+      "denys.k",
+      "guestUser",
+      "anastasia",
+      "katya.dev",
+      "oleg2000",
+      "coder_cat",
+      "testUser",
+      "tanya",
+      "marta_code",
+      "vladislav",
+      "sergo_top",
+      "yan4ik",
+      "lena.dev",
+      "ivan_test",
+      "oleh.dev",
+      "devil_dev",
+      "yana23",
+      "oldSchool"
+    ],
+    "dislikesUsers": []
+  },
+  {
+    "id": 49,
+    "text": "У кожного програміста є та кнопка, яку краще не натискати.",
+    "author": "Антон Дяченко",
+    "createdAt": "2025-05-04T08:00:00Z",
+    "likes": 20,
+    "dislikes": 0,
+    "likesUsers": [
+      "yana23",
+      "testUser",
+      "yan4ik",
+      "devil_dev",
+      "oleg2000",
+      "lena.dev",
+      "tanya",
+      "ivan_test",
+      "anastasia",
+      "sergo_top",
+      "marta_code",
+      "oldSchool",
+      "dmytro777",
+      "coder_cat",
+      "denys.k",
+      "katya.dev",
+      "guestUser",
+      "vladislav",
+      "admin",
+      "oleh.dev"
+    ],
+    "dislikesUsers": []
+  },
+  {
+    "id": 50,
+    "text": "Інструкції — це те, що пишеться після запуску продукту.",
+    "author": "Назар Петренко",
+    "createdAt": "2025-05-04T10:00:00Z",
+    "likes": 19,
+    "dislikes": 1,
+    "likesUsers": [
+      "dmytro777",
+      "ivan_test",
+      "marta_code",
+      "devil_dev",
+      "yan4ik",
+      "anastasia",
+      "admin",
+      "oleh.dev",
+      "coder_cat",
+      "vladislav",
+      "katya.dev",
+      "sergo_top",
+      "tanya",
+      "testUser",
+      "yana23",
+      "denys.k",
+      "oleg2000",
+      "oldSchool",
+      "guestUser"
+    ],
+    "dislikesUsers": [
+      "lena.dev"
+    ]
+  },
+  {
+    "id": 51,
+    "text": "Автоматизація — це коли ти витрачаєш 8 годин, щоб зекономити 10 хвилин.",
+    "author": "Антон Дяченко",
+    "createdAt": "2025-05-04T12:00:00Z",
+    "likes": 6,
+    "dislikes": 0,
+    "likesUsers": [
+      "marta_code",
+      "ivan_test",
+      "yan4ik",
+      "katya.dev",
+      "denys.k",
+      "vladislav"
+    ],
+    "dislikesUsers": []
+  },
+  {
+    "id": 52,
+    "text": "Сучасний девелопер знає більше про StackOverflow, ніж про свій код.",
+    "author": "Олексій Коваль",
+    "createdAt": "2025-05-04T14:00:00Z",
+    "likes": 16,
+    "dislikes": 2,
+    "likesUsers": [
+      "yana23",
+      "tanya",
+      "devil_dev",
+      "ivan_test",
+      "anastasia",
+      "oldSchool",
+      "sergo_top",
+      "oleg2000",
+      "denys.k",
+      "oleh.dev",
+      "vladislav",
+      "coder_cat",
+      "lena.dev",
+      "yan4ik",
+      "katya.dev",
+      "guestUser"
+    ],
+    "dislikesUsers": [
+      "testUser",
+      "admin"
+    ]
+  },
+  {
+    "id": 53,
+    "text": "Бекап не існує, поки ти не спробуєш його відновити.",
+    "author": "Олексій Коваль",
+    "createdAt": "2025-05-04T16:00:00Z",
+    "likes": 1,
+    "dislikes": 1,
+    "likesUsers": [
+      "oleh.dev"
+    ],
+    "dislikesUsers": [
+      "guestUser"
+    ]
+  },
+  {
+    "id": 54,
+    "text": "Фронтендер без дизайну — як художник без пензля.",
+    "author": "Олексій Коваль",
+    "createdAt": "2025-05-04T18:00:00Z",
+    "likes": 2,
+    "dislikes": 7,
+    "likesUsers": [
+      "coder_cat",
+      "devil_dev"
+    ],
+    "dislikesUsers": [
+      "vladislav",
+      "ivan_test",
+      "marta_code",
+      "sergo_top",
+      "oleg2000",
+      "oldSchool",
+      "tanya"
+    ]
+  },
+  {
+    "id": 55,
+    "text": "Що більше часу ти витрачаєш на назви змінних, то краще код.",
+    "author": "Марія Литвин",
+    "createdAt": "2025-05-04T20:00:00Z",
+    "likes": 11,
+    "dislikes": 4,
+    "likesUsers": [
+      "katya.dev",
+      "anastasia",
+      "guestUser",
+      "tanya",
+      "devil_dev",
+      "oleh.dev",
+      "yana23",
+      "dmytro777",
+      "oldSchool",
+      "oleg2000",
+      "denys.k"
+    ],
+    "dislikesUsers": [
+      "lena.dev",
+      "coder_cat",
+      "vladislav",
+      "ivan_test"
+    ]
+  },
+  {
+    "id": 56,
+    "text": "Часто найкоротший шлях до вирішення проблеми — це Alt+F4.",
+    "author": "Антон Дяченко",
+    "createdAt": "2025-05-04T22:00:00Z",
+    "likes": 5,
+    "dislikes": 1,
+    "likesUsers": [
+      "yan4ik",
+      "oldSchool",
+      "admin",
+      "vladislav",
+      "devil_dev"
+    ],
+    "dislikesUsers": [
+      "oleh.dev"
+    ]
+  },
+  {
+    "id": 57,
+    "text": "Скрам мітинги — це коли ти говориш про роботу більше, ніж її робиш.",
+    "author": "Олексій Коваль",
+    "createdAt": "2025-05-05T00:00:00Z",
+    "likes": 14,
+    "dislikes": 2,
+    "likesUsers": [
+      "admin",
+      "coder_cat",
+      "sergo_top",
+      "marta_code",
+      "vladislav",
+      "lena.dev",
+      "dmytro777",
+      "anastasia",
+      "ivan_test",
+      "katya.dev",
+      "oldSchool",
+      "testUser",
+      "yan4ik",
+      "yana23"
+    ],
+    "dislikesUsers": [
+      "devil_dev",
+      "oleg2000"
+    ]
+  },
+  {
+    "id": 58,
+    "text": "Кожна помилка — це прихована можливість. Для нічного дебагу.",
+    "author": "Марія Литвин",
+    "createdAt": "2025-05-05T02:00:00Z",
+    "likes": 16,
+    "dislikes": 4,
+    "likesUsers": [
+      "tanya",
+      "devil_dev",
+      "sergo_top",
+      "denys.k",
+      "ivan_test",
+      "oldSchool",
+      "yan4ik",
+      "lena.dev",
+      "oleg2000",
+      "oleh.dev",
+      "vladislav",
+      "guestUser",
+      "anastasia",
+      "dmytro777",
+      "katya.dev",
+      "yana23"
+    ],
+    "dislikesUsers": [
+      "testUser",
+      "marta_code",
+      "admin",
+      "coder_cat"
+    ]
+  },
+  {
+    "id": 59,
+    "text": "Найкращий час писати код — 3:00 ночі, коли всі сплять і ти не думаєш.",
+    "author": "Назар Петренко",
+    "createdAt": "2025-05-05T04:00:00Z",
+    "likes": 19,
+    "dislikes": 0,
+    "likesUsers": [
+      "tanya",
+      "yana23",
+      "yan4ik",
+      "vladislav",
+      "coder_cat",
+      "testUser",
+      "lena.dev",
+      "marta_code",
+      "ivan_test",
+      "oleg2000",
+      "denys.k",
+      "oleh.dev",
+      "guestUser",
+      "anastasia",
+      "oldSchool",
+      "katya.dev",
+      "devil_dev",
+      "admin",
+      "sergo_top"
+    ],
+    "dislikesUsers": []
+  },
+  {
+    "id": 60,
+    "text": "Коли кажеш: 'ще п’ять хвилин', насправді маєш на увазі — ще один реквест.",
+    "author": "Сергій Гнатюк",
+    "createdAt": "2025-05-05T06:00:00Z",
+    "likes": 12,
+    "dislikes": 7,
+    "likesUsers": [
+      "oldSchool",
+      "yan4ik",
+      "testUser",
+      "sergo_top",
+      "oleh.dev",
+      "admin",
+      "guestUser",
+      "marta_code",
+      "anastasia",
+      "oleg2000",
+      "tanya",
+      "denys.k"
+    ],
+    "dislikesUsers": [
+      "devil_dev",
+      "vladislav",
+      "katya.dev",
+      "yana23",
+      "lena.dev",
+      "dmytro777",
+      "coder_cat"
+    ]
+  },
+  {
+    "id": 61,
+    "text": "Якщо ти розумієш свій код через місяць — ти геній.",
+    "author": "Антон Дяченко",
+    "createdAt": "2025-05-05T08:00:00Z",
+    "likes": 3,
+    "dislikes": 0,
+    "likesUsers": [
+      "coder_cat",
+      "katya.dev",
+      "marta_code"
+    ],
+    "dislikesUsers": []
+  },
+  {
+    "id": 62,
+    "text": "Справжній QA ніколи не скаже, що все працює.",
+    "author": "Антон Дяченко",
+    "createdAt": "2025-05-05T10:00:00Z",
+    "likes": 10,
+    "dislikes": 9,
+    "likesUsers": [
+      "sergo_top",
+      "admin",
+      "vladislav",
+      "tanya",
+      "guestUser",
+      "testUser",
+      "denys.k",
+      "oldSchool",
+      "katya.dev",
+      "oleg2000"
+    ],
+    "dislikesUsers": [
+      "lena.dev",
+      "devil_dev",
+      "yana23",
+      "dmytro777",
+      "marta_code",
+      "yan4ik",
+      "ivan_test",
+      "oleh.dev",
+      "anastasia"
+    ]
+  },
+  {
+    "id": 63,
+    "text": "Системний адміністратор — це та людина, яка має ключі від пекла.",
+    "author": "Олексій Коваль",
+    "createdAt": "2025-05-05T12:00:00Z",
+    "likes": 16,
+    "dislikes": 3,
+    "likesUsers": [
+      "yana23",
+      "katya.dev",
+      "yan4ik",
+      "guestUser",
+      "devil_dev",
+      "testUser",
+      "marta_code",
+      "sergo_top",
+      "ivan_test",
+      "coder_cat",
+      "anastasia",
+      "vladislav",
+      "oldSchool",
+      "dmytro777",
+      "oleg2000",
+      "lena.dev"
+    ],
+    "dislikesUsers": [
+      "tanya",
+      "denys.k",
+      "oleh.dev"
+    ]
+  },
+  {
+    "id": 64,
+    "text": "Вовочка приходить із дитячого садка. Приносить чужу іграшкову машинку. Батько його запитує:\n- Звідки в тебе ця машина?\n- Це ми з Петею обмінялися.\n- А що ти йому дав?\n- Пізди",
+    "author": "Олександр Сучков",
+    "createdAt": "2025-05-09T15:36:49.274Z",
+    "likes": 1,
+    "dislikes": 0,
+    "likesUsers": [
+      "Олександр Сучков"
+    ],
+    "dislikesUsers": []
+  }
+]

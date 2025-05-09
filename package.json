@@ -1,0 +1,13 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "scripts": {
+    "dev": "nodemon ./server/index.js"
+  },
+  "dependencies": {
+    "react-icons": "^5.5.0"
+  }
+}
