@@ -1312,5 +1312,17 @@
       "Олександр Сучков"
     ],
     "dislikesUsers": []
+  },
+  {
+    "id": 65,
+    "text": "Почему программисты предпочитают темную тему? Потому что свет притягивает баги!",
+    "author": "newUser",
+    "createdAt": "2025-05-10T12:43:59.721Z",
+    "likes": 1,
+    "dislikes": 0,
+    "likesUsers": [
+      "newUser"
+    ],
+    "dislikesUsers": []
   }
 ]
